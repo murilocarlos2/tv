@@ -1,14 +1,5 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="http://vignette1.wikia.nocookie.net/thebatmanfanon/images/2/2f/Batman_rect-500x500.jpg" pltv-name="LUKARIO TESTE" pltv-description="LISTA DE SÉRIES E FILMES" pltv-cover="https://s3.amazonaws.com/gumroad/files/69681cbdfc664ab19581255368220afc/original/1914665small.jpg" pltv-author="Heitor Ferreira da Mota" pltv-site="XXX  XXX" pltv-email="XXX XXX"
 
-
-################## XXXX CANAIS XXXX ########################
-
-#EXTINF:-1 tvg-logo="http://oi44.tinypic.com/vwu3h0.jpg" group-title="ANIMES" pltv-subgroup="Dragon Ball ", DBZ EPISODIO 01
-http://video22.mais.uol.com.br/15987945.mp4?ver=o&r=http://mais.uol.com.br
-
-#EXTINF:-1 tvg-logo="http://oi44.tinypic.com/vwu3h0.jpg" group-title="ANIMES" pltv-subgroup="Dragon Ball ", DBZ EPISODIO 02
-http://video22.mais.uol.com.br/15987945.mp4?ver=o&r=http://mais.uol.com.br
-
 #EXTINF:-1 tvg-logo="http://oi44.tinypic.com/vwu3h0.jpg" group-title="ANIMES" pltv-subgroup="Dragon Ball ", DBZ EPISODIO 03
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CrQFi_f2qSCwWyYqUSP3nW0LdsHCK1R6aSYxut0FtDD99B4UoMrr92leqlJMvC1CKhz3BQu-tII0cqhQNaXFePF3n48sDbrGElE7hgiYWGUrB-XwM-T5P30CwPTE-E6XzZI_-n7dnyXUZN2cwcuEzL3-3TQdcinCYTQs4VKjiy380Y0XHj-t9kuTSxdsG-mlxnWpcd3STpCiPUwyOdpGaXeDL3mwMCoVFwFDAoszL0M6pQV_ZLWEAlGAmAZ2XnASeyg0bsVxJ41MIIcDQLxV1yvCBSw0hdJ8ycY6szOb8aYweAxicVX6hRxXauAid4iMQcHx4P5IED4eC67gFlwCcRlHcxgeWkZn-nMwo3wETSuDsWWMkuuDH8HoDvios9I05U1vxBxUFgjoymAsTS2Q0IjszeCdEHf3oHwTlI2ZWYVCApspu0QwG27R3h0st8zFvRUBYG8-ITt20mgYB1K8NVUFt5EFk_kdUuJQPSSiVqI1SV91sTsATSKUr_6J26OQWm3dHcKmbY7czrFqkUqBF6Mwe79nVdrCEeKlu--dPgmCsrFo85j-14btGY_cW7RSpy2f5ksAYgh__t_zUDZp8qCUu8YC9MxDN8NF3O6gbYJiQaKKA80EbVjlO72X_58J2nklKlNnvh3lnyzQY7G8lkZU7ePWjfgwsX85J8djqlHBo-Hif94f_fopqdr_ack__EEsYXiCzHH5JxAREVPtVtYglw_XVWqIsvHFb-0cjyyDsyZY7j5uhPbXRX-mrkdqr3NTiaYMpBQGq1W17OGJRN9xUmRTNcWzLnGwr2b3FczOapsGowqgOP14pC1Rrklod93Lg2SlItK-E5w9O7odZXguL_62RQ88ZsClTGYe0S_WPoPhnDre7mMI_aQnjzcsoCuAzZ-tCPPx0mIpwZggt6jWnWUEe4kaDJGuLG63y9ntVJfOOyABKgl1cy1lYXN0LTIwngQ.m3u8
